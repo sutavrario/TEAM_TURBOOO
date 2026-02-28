@@ -1,8 +1,31 @@
+# Core Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+
+# Database & Firebase
+firebase-admin==6.2.0
+
+# Authentication
+PyJWT==2.8.1
+python-jose==3.3.0
+cryptography==41.0.7
+requests==2.31.0
+
+# ML & Data Processing
 numpy
-pyaudio
-librosa
+pandas
 scikit-learn
 joblib
+librosa
+pyaudio
+
+# Dashboard & Visualization
 streamlit
-pandas
 altair
+
+# AI & LLM
+google-genai==0.2.2
+
+# Additional utilities
+python-multipart==0.0.6

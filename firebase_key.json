@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vocalguard-5f137",
+  "private_key_id": "471c59f3ee93ed9e980ee31fe410d1df9cf99d40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjbN3goFe+o1Sb\n3VWYKxrgj8o7YzFwScgBVLHvThaA3J1N0C2Lzin7sPMpADXFo7aZewrN6NSk3nJl\nESgAmxuxS9B0kILNZH/k9GHZDXCS9OiM1Ffxb/ELmG3G1OwHGcJMAbg2L3EQf6GP\nEXmSBU7Jo4vf6JGrCfnpvbnbRWD39UkBKBMF5u1xr0Svm12NNB8/Vlnkl7sin93m\nLetl/vWQChh4cvt0+cP66rCIEmrHHxSFFW++zP6BjR/d827PcxhKBgvofeBNzyZP\n2h4RT79oRMVM4A7Y5X0oWyyXfeatpV5MpP4d9Est6LAJZd8RUrYDb32azeJKaE/+\na1nf/bknAgMBAAECggEAOwccp5q2a4KVCUdvWemGNlbb1IIwaMadpMrIzCXmbVfV\ndEbeK3U9LFiHJFMrobqWQEvRSBRwbMJXyqejTFT14RSebEK90HWPRGuxodZ9K4dp\nfHP4x2+Yjrvncj39bPJgnb2shFPX8sJNuoZ8mUvLYUaTnXANrukN9n8J6EGfo3uH\nQnFpBSYuQ9u+9pY+yrpjkLEnU6AnowbQ4jcOtW8z19dQWBo0QS+41wpWqoRPrvwx\nb7+y+Ppjltd08HhHQAEwIYt8h00PrNvg/tC7vwZeWNK9hiw0ZT+T6XivJpgbC79e\njQOAaYDiUy732ieQWusVjhTAdn/etFwRkRBBVJafoQKBgQD4b5Ljz+TzAxr4JMg6\n8/VUqIhSWao5y+viEYNxQkYWVCnurcCK6NyU9NHS3i3fIwBQEREnsKT4pEIzqm7U\nnLXsFR1RpuPNJF5veqLwYp/bvlzA96G8zhMErlawBa1i34hItICoGRQvBf+sIGmK\nwOQmO54qC7OumQrAcPPpe9eo2QKBgQDqWYbOAoTNKTqWu88r2tC2IoxKeSWAkYLz\nx01sngUBcRrirKYnSxGBJ7N2rcqBicEmdaAB+PILkJzEh9b1wgnGZcwSQbLFr5KE\nxCcoJcpyaOd4S1g6XKJaezZpvOYSZAkA0dAI40tjhZeE5swSTDnwmDHor3RsZc2Q\nUXMwYtMx/wKBgQCGFVnXIH419kgZA2kaAE85iNhCcehg10GROtiRSS6goH4dNqPD\nlRhwQI36XDWvx6lEjWGP5VO0aprcXbEBiS7aoy62wfcS4f0h97N3QBN9Owm+kCg3\nyZUUIq/gwr+orHJWoy0JDLgLBRbPpJKx85dvVx/vG2+33Rujb5MFQfTMSQKBgHeD\n5vMDZ9T1tNKQv4w/EPgCUIfeltil3SIUP5EoWactlqeJo0cgyrGSnLzmzwMXTPEf\nRdYbrt1lB/5WxLMbHT8YRWX+KX0WGGQrYUjhVQjaJUo9KqbA/W+lrM9qLe+tIsZP\nOoh92sHLrMVzqxmd1GK2S6W+bWKm3JpAX72KeOjjAoGAS5VOTx4fo3EYlJUuRyYS\nlGU4fpDJ56xxdOSqMgoURqJNtk6sbZ+dwd6V+tbtr9abAhy9+VPQGM8xq0TXZfGM\n0Zu9ENU0yAbtu7849C6CcpgsJ6reaz2e5K43E7GmJIBb5+V1giSJAmVA7wSs1nVa\n7CxK+Je1ucbIVlAOQM9KWPk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@vocalguard-5f137.iam.gserviceaccount.com",
+  "client_id": "112043496088694580974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40vocalguard-5f137.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
